@@ -4,10 +4,9 @@
 
 > "In the short run, the market is a voting machine but in the long run, it is a weighing machine." — Benjamin Graham
 
-[![Claude Code](https://img.shields.io/badge/Claude_Code-skill-blue?style=flat-square)](https://github.com/anthropics/claude-code)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
-[![Version](https://img.shields.io/badge/version-1.0.0-green?style=flat-square)]()
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
 **将本杰明·格雷厄姆的价值投资思维方式注入 Claude Code,用安全边际和理性分析守护每一个投资决策。**
 
 </div>
@@ -95,14 +94,12 @@ grahamben-skill/
 
 更多人物 Skill 请查看 [Awesome 女娲.skill](https://github.com/Panmax/awesome-nuwa)。
 
-## 许可证
-
-[MIT](LICENSE) - Copyright (c) 2026 Panmax
-
 ---
 
 <div align="center">
 
-*安全边际是投资中最重要的四个字。*
+MIT License
+
+Made with [女娲.skill](https://github.com/alchaincyf/nuwa-skill)
 
 </div>
